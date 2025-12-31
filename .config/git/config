@@ -1,0 +1,16 @@
+[user]
+    name = Mehmet Efe Umit
+    email = mehmetefeumit@protonmail.com
+    signingkey = 05CC35545DF28441
+
+[commit]
+    gpgsign = true
+
+[tag]
+    gpgsign = true
+
+[gpg]
+    program = gpg
+
+[core]
+    editor = nvim
